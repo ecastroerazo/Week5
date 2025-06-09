@@ -1,0 +1,14 @@
+/Users/elenacastro/week5/bin/Debug/net9.0/week5
+/Users/elenacastro/week5/bin/Debug/net9.0/week5.deps.json
+/Users/elenacastro/week5/bin/Debug/net9.0/week5.runtimeconfig.json
+/Users/elenacastro/week5/bin/Debug/net9.0/week5.dll
+/Users/elenacastro/week5/bin/Debug/net9.0/week5.pdb
+/Users/elenacastro/week5/obj/Debug/net9.0/week5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenacastro/week5/obj/Debug/net9.0/week5.AssemblyInfoInputs.cache
+/Users/elenacastro/week5/obj/Debug/net9.0/week5.AssemblyInfo.cs
+/Users/elenacastro/week5/obj/Debug/net9.0/week5.csproj.CoreCompileInputs.cache
+/Users/elenacastro/week5/obj/Debug/net9.0/week5.dll
+/Users/elenacastro/week5/obj/Debug/net9.0/refint/week5.dll
+/Users/elenacastro/week5/obj/Debug/net9.0/week5.pdb
+/Users/elenacastro/week5/obj/Debug/net9.0/week5.genruntimeconfig.cache
+/Users/elenacastro/week5/obj/Debug/net9.0/ref/week5.dll
