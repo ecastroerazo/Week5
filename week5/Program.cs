@@ -52,7 +52,7 @@ namespace Exercise02
                 return;
             }
 
-            var customer = new Customer("Bob Smith", "1234-5678-9012-3456", "Pa$$w0rd");
+            var customer = new Customer("Bob Smith", "5403-2839-3898-3498", "Fl!wile");
 
             string xmlFile = Combine(CurrentDirectory, "..", "protected-customers.xml");
 
